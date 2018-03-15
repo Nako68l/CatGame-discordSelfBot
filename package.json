@@ -1,0 +1,26 @@
+{
+    "name": "discordselfbot",
+    "version": "1.0.0",
+    "description": "mini cat game in discord chat",
+    "main": "catGame.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "cg": "node catGame.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nako68l/CatGame-discordSelfBot.git"
+    },
+    "keywords": [
+        "chat-bot"
+    ],
+    "author": "Antony Triputen Toxa23A@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nako68l/CatGame-discordSelfBot/issues"
+    },
+    "homepage": "https://github.com/Nako68l/CatGame-discordSelfBot#readme",
+    "dependencies": {
+        "eris": "^0.8.5"
+    }
+}
